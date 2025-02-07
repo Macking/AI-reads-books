@@ -30,7 +30,9 @@
    - `book_analysis/summaries/`: Markdown文件包括分段或者最终总结
    - `book_analysis/pdfs/`: 复制一份你的输入PDF文件 
 
+如果有问题，还有添加微信
 
+![添加助手](.\\asset\640.png)
 ____________
 
 
