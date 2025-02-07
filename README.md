@@ -32,7 +32,7 @@
 
 如果有问题，还有添加微信
 
-![添加助手](.\\asset\640.png)
+![添加助手]([.\\asset\640.png](https://github.com/Macking/AI-reads-books/blob/master/asset/640.png))
 ____________
 
 
